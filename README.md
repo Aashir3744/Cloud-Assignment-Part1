@@ -41,14 +41,6 @@ Cloud_Assignment_Part1/
 │   ├── main.tf
 │   └── outputs.tf
 │
-├── architecture/
-│   ├── architecture.puml
-│   └── architecture.png
-│
-├── screenshots/
-│
-├── report/
-│
 ├── .gitignore
 │
 └── README.md
@@ -122,18 +114,6 @@ The detailed architecture diagram is available inside the **architecture/** fold
 ## Version Control
 
 The project uses Git for version control and GitHub as the remote repository to maintain Infrastructure as Code (IaC) files and project documentation.
-
----
-
-## Author
-
-**Aashir Waqar**
-
-BS Computer Science
-
-Cloud Computing Assignment – Part 1
-
-2026
 
 ---
 
